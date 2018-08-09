@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3D646553-47F5-49ED-B7B7-4153AC907708}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HexagonalStructure/HardCodedAdapter.cs">
+    <Files>
+      <File FileName="HexagonalStructure/Program.cs" Line="13" Column="1" />
+      <File FileName="HexagonalStructure/PoetryReader.cs" Line="6" Column="26" />
+      <File FileName="HexagonalStructure/IRequestVerses.cs" Line="7" Column="6" />
+      <File FileName="HexagonalStructure/IAdapter.cs" Line="7" Column="43" />
+      <File FileName="HexagonalStructure/HardCodedAdapter.cs" Line="6" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HexagonalStructure PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

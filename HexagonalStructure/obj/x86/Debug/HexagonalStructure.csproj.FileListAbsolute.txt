@@ -1,0 +1,6 @@
+/home/benoit/Projects/HexagonalStructure/HexagonalStructure/bin/Debug/HexagonalStructure.exe
+/home/benoit/Projects/HexagonalStructure/HexagonalStructure/bin/Debug/HexagonalStructure.pdb
+/home/benoit/Projects/HexagonalStructure/HexagonalStructure/obj/x86/Debug/HexagonalStructure.csprojResolveAssemblyReference.cache
+/home/benoit/Projects/HexagonalStructure/HexagonalStructure/obj/x86/Debug/HexagonalStructure.csproj.CoreCompileInputs.cache
+/home/benoit/Projects/HexagonalStructure/HexagonalStructure/obj/x86/Debug/HexagonalStructure.exe
+/home/benoit/Projects/HexagonalStructure/HexagonalStructure/obj/x86/Debug/HexagonalStructure.pdb
