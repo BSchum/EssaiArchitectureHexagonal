@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace HexagonalStructure
 {
+    /* Hexagone : PoetryReader
+       Port d'entré : IRequestVerses
+       Port de sortie : IAdapter */
     public class PoetryReader : IRequestVerses
     {
         private IAdapter adapter;
